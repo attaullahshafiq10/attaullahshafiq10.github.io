@@ -109,7 +109,7 @@
     {
       "company": "SysTech Engg: Solutions",
       "position": "Internee",
-      "website": "http://www.sysstech/",
+      "website": "http://www.sysstech.com/",
       "startDate": "2019-06-01",
       "endDate": "2019-07-02",
       "summary": "",
@@ -119,7 +119,7 @@
       ]
     }
   ],
-  "volunteer": [
+   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -146,12 +146,12 @@
       ]
     }
   ],
-  "Professional Certifcations": [
+  "awards": [
     {
-      "title": "Cisco Certifed Network Associate-CCNA",
-      "date": "2020-Present",
-      "awarder": "Cisco Networking Academy",
-      "summary": ""
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "First place",
