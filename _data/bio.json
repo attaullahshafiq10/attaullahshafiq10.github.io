@@ -70,18 +70,19 @@
         "HTML5/CSS"
       ]
     },
-        {
-      "company": "Dawaat E-Magagize",
-      "position": "Web Developer and Writer",
+    {
+      "organization": "",
       "website": "",
-      "startDate": "2020-03-03",
-      "endDate": "Present",
-      "summary": "Administration and Web Devolopment",
+      "position": "Professional",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official E-Magazine newspaper website",
-        "Drive, design and build writers-community projects for Dawaat"
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    },
+    }
     {
       "name": "Telecom Electives",
       "level": "",
@@ -91,7 +92,7 @@
         "Git/GitHub",
         "g++",
         "TI LaunchPad"
-      ]
+                  ]
     }
   ],
   "education": [
