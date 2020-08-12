@@ -254,10 +254,52 @@
       "awarder": "DigiSkills",
       "summary": ""
     },
+       {
+      "title": "The Fundamentals of Digital Marketing",
+      "date": "",
+      "awarder": "Google Digital Garage",
+      "summary": ""
+    },
+    {
+      "title": "Information Security",
+      "date": "",
+      "awarder": "University of London",
+      "summary": ""
+    },
+    {
+      "title": "Cryptography and Hashing",
+      "date": "",
+      "awarder": "University of California, Irvine",
+      "summary": ""
+    },
     {
       "title": "Cicso Networking Basics",
       "date": "",
       "awarder": "Cicso Networking Academy through coursera",
+      "summary": ""
+    },
+    {
+      "title": "Introduction to Packet Tracer",
+      "date": "",
+      "awarder": "Cicso Networking Academy",
+      "summary": ""
+    },
+    {
+      "title": "MATLAB onramp and Simulink onramp",
+      "date": "",
+      "awarder": "Mathworks",
+      "summary": ""
+    },
+    {
+      "title": "Aerial Robotics",
+      "date": "",
+      "awarder": "UNIVERSITY OF PENNSYLVANIA",
+      "summary": ""
+    },
+    {
+      "title": "Certifcate of Information Technology-CIT",
+      "date": "",
+      "awarder": "HCC",
       "summary": ""
     }
   ],
