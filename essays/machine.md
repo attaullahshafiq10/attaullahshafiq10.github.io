@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Basics of Machine Learning
 # All dates must be YYYY-MM-DD format!
-date: 2020-06-6
+date: 2015-08-26
 labels:
   - Machine Learning
   - Artificial Intelligence
@@ -24,6 +24,3 @@ Recommendation System; (Netflix prize) Predict how much someone is going to love
 Logical Rules Automatically learned from; Credit risks analysis in Market based analysis, customer relationship management (CRM), Finance, Manufacturing, Medicine, Telecommunications like Quality of services, Optimization, routing Bioinformatics, Search Engines, Fraud Detection, sentiment Analysis.
 So the main aim/purpose of ML is to determine and properly hidden in data. Then, theoretical distributions are applied to data sets to gain a better and better understanding. Every statistical models are backed by mathematically proven theories. However, ML is hugely based on the ability of computers to big deeper into the available data to an unleash a structure could looked like. As ML is iterative in nature, in terms of learning from data, learning process can be automated easily and data is analyzed until a clear pattern is identified.
 
----
-
-You can read this Article at the [Dawaat E-Magaziine](https://www.dawaat.org/?p=1190).
