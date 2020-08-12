@@ -1,61 +1,60 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/mri.png
+title: MRI Data
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-12
+date: 2020-08-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - MATLAB
+  - MATLAB Graphics
+summary: The example of scalar data includes magnetic resonance imaging (MRI) data. This data typically contains a number of slice planes taken through a volume, such as the human body. MATLAB includes an MRI data set that contains 27 image slices of a human head.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/mri.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The example of scalar data includes magnetic resonance imaging (MRI) data. This data typically contains a number of slice planes taken through a volume, such as the human body. MATLAB includes an MRI data set that contains 27 image slices of a human head. This example illustrate the following techniques applied to MRI data:
+
+A series of 2-D images representing slices through the head
+
+2-D and 3-D contour slices taken at arbitrary locations within the data
+
+An isosurface with isocaps showing a cross section of the interior
 
 To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Ways to Display MRI Data
+Changing the Data Format
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
+Displaying Images of MRI Data
+
+Displaying a 2-D Contour Slice
+
+Displaying 3-D Contour Slices
+
+Applying an Isosurface to the MRI Data
+
+Adding Isocaps Show Cut-Away Surface
+
+Defining the View
+
+Add Lighting.
+
+<--------------------Scalar Volume Data------------------------>
+Typical scalar volume data is composed of a 3-D array of data and three coordinate arrays of the same dimensions. The coordinate arrays specify the x-, y-, and z-coordinates for each data point.
 <------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+The isocaps use interpolated face coloring, which means the figure colormap determines the coloring of the patch. This example uses the colormap supplied with the data.
 
-pickup candle
-- you are now carrying the candle -
+To display isocaps at other data values, try changing the isosurface value or use the subvolume command
 
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/attaullahshafiq10/Display-MRI-Data"><i class="large github icon "></i>MRI Data using MATLAB</a>
 
