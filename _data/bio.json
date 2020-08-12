@@ -58,35 +58,48 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Technical Skills",
       "level": "",
       "keywords": [
-        "MATLAB",
-        "C++",
-        "Java",
-        "Javascript",
-        "Python",
-        "HTML5/CSS"
+        "MATLAB Programming and Simulink",
+        "Programming (Python, HTML5, CSS3, C++, JAVA, Assembly, WordPress)",
+        "Hardware troubleshooting",
+        "Network troubleshooting",
+        "Mathematica, HFSS, Edsim, Kiel, Proteus, Multisim, EL Workbench, LABVIEW",
+        "Cisco Packet Tracer",
+        "Digital Marketing",
+        "Microsoft Ofce (MS Word, Excel, Powerpoint, etc)"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Soft Skills",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Excellent written and verbal communication skills",
+        "Highly organized, Punctual & Self Motivated",
+        "Ability to work independently or as part of a team"
       ]
     }
+        {
+      "name": "TELECOM ELECTIVES",
+      "level": "",
+      "keywords": [
+        "Telecommunication Networks",
+        "Antennas System",
+        "Networking",
+        "Hybrid Satellite, Aerial, Terrestrial Network (HSAT)",
+        "Machine Learning, Artifcial Intelligence, Deep Learning",
+        "Data Science with MATLAB",
+        "Digital Image Processing"
+      ]
+    },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "FET, University of Sindh, Jamshoro",
+      "area": "Telecommunications",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,27 +108,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Dawaat E-Magagize",
+      "position": "Web Developer and Writer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-03-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Administration and Web Devolopment",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official E-Magazine newspaper website",
+        "Drive, design and build writers-community projects for Dawaat"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "SysTech Engg: Solutions",
+      "position": "Internee",
+      "website": "http://www.sysstech.com/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-07-02",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Antennas system and site survey"
       ]
     }
   ],
