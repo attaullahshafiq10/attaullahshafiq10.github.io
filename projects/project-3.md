@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/mri.png
-title: MRI Data
+title: Disply MRI Data using MATLAB
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-12
