@@ -23,10 +23,6 @@ A series of 2-D images representing slices through the head
 An isosurface with isocaps showing a cross section of the interior
 
 To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
 Ways to Display MRI Data:
 
 
@@ -45,6 +41,11 @@ Adding Isocaps Show Cut-Away Surface
 Defining the View
 
 Add Lighting.
+
+<hr>
+
+<pre>
+Using Scalar Volume Data
 
 <--------------------Scalar Volume Data------------------------>
 Typical scalar volume data is composed of a 3-D array of data and three coordinate arrays of the same dimensions. The coordinate arrays specify the x-, y-, and z-coordinates for each data point.
