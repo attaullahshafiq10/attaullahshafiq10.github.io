@@ -22,11 +22,11 @@ A series of 2-D images representing slices through the head
 
 An isosurface with isocaps showing a cross section of the interior
 
-To give you a flavor of the game, here is an excerpt from one run:
+To give you a flavor of the game, here is an excerpt from one run
 
 
 
-
+.
 Ways to Display MRI Data:
 
 
