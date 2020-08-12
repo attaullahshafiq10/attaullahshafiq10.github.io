@@ -16,4 +16,4 @@ summary: This example shows how to create and display a complex three dimensiona
 
 This example uses a graphics object called the Newell teapot. The vertex, face, and color index data for the teapot are calculated by the teapotData function. Since the teapot is a complex geometric shape, there are a large number of vertices (4608) and faces (3872) returned by the function.
 
-You can learn more at [Myy Github Repository](https://github.com/attaullahshafiq10/Teapot-Object-using-MATLAB).
+You can learn more at [My Github Repository](https://github.com/attaullahshafiq10/Teapot-Object-using-MATLAB).
