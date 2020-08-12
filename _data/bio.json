@@ -165,52 +165,64 @@
       "summary": ""
     },
     {
+      "title": "Google IT Support-Professional Certificate",
+      "date": "",
+      "awarder": "Google",
+      "summary": ""
+    },
+    {
       "title": "Specialization in Digital Marketing",
-      "date": "2020",
+      "date": "",
       "awarder": "UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN",
       "summary": ""
     },
     {
       "title": "Machine Learning",
-      "date": "2020",
+      "date": "",
       "awarder": "STANFORD UNIVERSITY",
-      "summary": "offered through Coursera"
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Programming Essentials in Python-PCAP",
+      "date": "",
+      "awarder": "Cisco Networking Academy",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Architecting with Google Compute Engine-Specialization",
+      "date": "",
+      "awarder": "Google Cloud",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Introduction to Cyber Security",
+      "date": "",
+      "awarder": "Cisco Networking Academyn",
+      "summary": ""
     },
     {
-      "title": "First place",
+      "title": "Introduction to IoT",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Cisco Networking Academyn",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Programming with MATLAB",
+      "date": "",
+      "awarder": "Vanderbilt University",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Python for Everybody-Specialization",
+      "date": "",
+      "awarder": "University of Michigan",
+      "summary": ""
+    },
+    {
+      "title": "AI for Everyone",
+      "date": "",
+      "awarder": "deeplearning.ai",
+      "summary": ""
     }
   ],
   "references": [
