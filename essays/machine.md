@@ -11,10 +11,6 @@ labels:
 
 <img class="ui tiny left circular floated image" src="../images/atta.png">
 
-
-Read This at [Dawaat E-Magaziine](https://www.dawaat.org/?p=1190).
-
-
 Machine learning is sub field of an artificial intelligence (AI). And AI is the study of agents, that perceive world around them, from plans and make a decisions to achieve their goals. It’s foundation include mathematics, probability, logic, philosophy, linguistics, decision theory, neurosciences. Many of the fields fall under umbrella of artificial intelligence. Such as machine learning, computer vision, machine learning, natural language processing.
 
 As human learn from past experiences. And machines follow instructions given by humans. But what if humans can train the machine, that’s called machine learning. There are patterns in the data for during a task, we cannot respect them mathematically. That means we use machine learning to automatically learn those mathematical representation of pattern from data. We can say in other words, to give computer the ability to learn without being explicitly programmed.
