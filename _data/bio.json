@@ -83,7 +83,7 @@
   ],
   "education": [
     {
-      "institution": "Faculty of Engg. Technology, University of Sindh",
+      "institution": "Faculty of Engg. & Technology, University of Sindh",
       "area": "Telecommunications",
       "studyType": "B.S",
       "startDate": "2018-01-01",
@@ -146,12 +146,12 @@
       ]
     }
   ],
-  "awards": [
+  "Professional Certifcations": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Cisco Certifed Network Associate-CCNA",
+      "date": "2020-Present",
+      "awarder": "Cisco Networking Academy",
+      "summary": ""
     },
     {
       "title": "First place",
