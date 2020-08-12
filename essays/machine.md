@@ -3,13 +3,17 @@ layout: essay
 type: essay
 title: Basics of Machine Learning
 # All dates must be YYYY-MM-DD format!
-date: 2020-07-24
+date: 2020-06-6
 labels:
   - Machine Learning
   - Artificial Intelligence
 ---
 
 <img class="ui tiny left circular floated image" src="../images/atta.png">
+
+
+Read This at [Dawaat E-Magaziine](https://www.dawaat.org/?p=1190).
+
 
 Machine learning is sub field of an artificial intelligence (AI). And AI is the study of agents, that perceive world around them, from plans and make a decisions to achieve their goals. It’s foundation include mathematics, probability, logic, philosophy, linguistics, decision theory, neurosciences. Many of the fields fall under umbrella of artificial intelligence. Such as machine learning, computer vision, machine learning, natural language processing.
 
@@ -23,3 +27,10 @@ Autonomous driving; (DARPA Grand challenge 2005) build a robot capable of naviga
 Recommendation System; (Netflix prize) Predict how much someone is going to love a movie based on their movies preference. (Data: Over 100 million ratings that over 480,000 users gave to nearly 18,000 movies) and (Reward: $1,000,000 dollars if 10% improvement with respect to Netflix current system)
 Logical Rules Automatically learned from; Credit risks analysis in Market based analysis, customer relationship management (CRM), Finance, Manufacturing, Medicine, Telecommunications like Quality of services, Optimization, routing Bioinformatics, Search Engines, Fraud Detection, sentiment Analysis.
 So the main aim/purpose of ML is to determine and properly hidden in data. Then, theoretical distributions are applied to data sets to gain a better and better understanding. Every statistical models are backed by mathematically proven theories. However, ML is hugely based on the ability of computers to big deeper into the available data to an unleash a structure could looked like. As ML is iterative in nature, in terms of learning from data, learning process can be automated easily and data is analyzed until a clear pattern is identified.
+
+
+
+
+
+
+You can read this Article at the [Dawaat E-Magaziine](https://www.dawaat.org/?p=1190).
