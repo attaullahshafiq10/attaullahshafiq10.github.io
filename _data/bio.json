@@ -121,14 +121,14 @@
   ],
    "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Ask Foundation",
+      "website": "http://dawaat.org",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2020-06-06",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developer team",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Design firmware for foundation",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
@@ -148,16 +148,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Federal Debate Competetion",
+      "date": "2016",
+      "awarder": "Winner",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Google Contribution Badge",
+      "date": "2020",
+      "awarder": "Google Badge",
+      "summary": ""
     }
   ],
   "references": [
