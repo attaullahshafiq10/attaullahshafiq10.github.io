@@ -58,7 +58,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Soft Skills",
       "level": "",
       "keywords": [
         "MATLAB",
@@ -66,11 +66,12 @@
         "Java",
         "Javascript",
         "Python",
+        "Cisco Packet Tracer",
         "HTML5/CSS"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Telecom Electives",
       "level": "",
       "keywords": [
         "MacOS",
