@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mri.png
+image: images/atta.png
 title: MRI Data
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
