@@ -27,7 +27,9 @@ To give you a flavor of the game, here is an excerpt from one run:
 <hr>
 
 <pre>
-Ways to Display MRI Data
+Ways to Display MRI Data:
+
+
 Changing the Data Format
 
 Displaying Images of MRI Data
@@ -50,7 +52,10 @@ Typical scalar volume data is composed of a 3-D array of data and three coordina
 
 The isocaps use interpolated face coloring, which means the figure colormap determines the coloring of the patch. This example uses the colormap supplied with the data.
 
-To display isocaps at other data values, try changing the isosurface value or use the subvolume command
+To display isocaps at other data values, try changing the isosurface value or use the sub volume command.
+
+
+You can see complete source file at the [Attaullah's GitHub Repository](https://github.com/attaullahshafiq10/Display-MRI-Data).
 
 </pre>
 
