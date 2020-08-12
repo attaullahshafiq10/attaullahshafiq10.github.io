@@ -58,16 +58,28 @@
   ],
   "skills": [
     {
-      "name": "Soft Skills",
+      "name": "Technical Skills",
       "level": "",
       "keywords": [
-        "MATLAB",
-        "C++",
+        "MATLAB Programming and Simulink",
+        "Python",
         "Java",
         "Javascript",
         "Python",
         "Cisco Packet Tracer",
         "HTML5/CSS"
+      ]
+    },
+        {
+      "company": "Dawaat E-Magagize",
+      "position": "Web Developer and Writer",
+      "website": "",
+      "startDate": "2020-03-03",
+      "endDate": "Present",
+      "summary": "Administration and Web Devolopment",
+      "highlights": [
+        "Maintain, update, and oversee official E-Magazine newspaper website",
+        "Drive, design and build writers-community projects for Dawaat"
       ]
     },
     {
