@@ -4,7 +4,7 @@ type: project
 image: images/tea.png
 title: Display Teapot using MATLAB
 permalink: projects/Teapot
-date: 2020-01-01
+date: 2020-01-12
 labels:
   - MATLAB
   - MATLAB Graphics
