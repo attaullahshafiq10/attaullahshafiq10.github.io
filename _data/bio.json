@@ -1,57 +1,57 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hafiz Muhammad Attaullah",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://attaullahshafiq10.github.io/My-Portfolio/images/molly.png",
+    "email": "attaullahshafiq10@gmail.com",
+    "phone": "+923163116336",
+    "website": "https://github.com/attaullahshafiq10",
+    "summary": "I am studying for a Bachelors in Telecommunications in the Faculty of Engineering & Technology at the University of Sindh. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "75500",
+      "city": "Karachi",
+      "countryCode": "PK",
+      "region": "Sindh"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "attaullahshafiq10",
+        "url": "https://github.com/attaullahshafiq10"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "attaullahshafiq10",
+        "url": "https://www.linkedin.com/in/attaullah-shafiq-18013917b/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "iamAttaullah10",
+        "url": "www.twitter.com/iamAttaullah10"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "iamattaullah10",
+        "url": "http://instagram.com/iamattaullah10"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things & Green IoT",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Security",
+        "Protocols"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -61,12 +61,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "MATLAB",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML5/CSS"
       ]
     },
     {
