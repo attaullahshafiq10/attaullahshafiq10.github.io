@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/xor.png
+image: images/ludo.PNG
 title: Ludo Game Project In PYTHON
 permalink: projects/NeuralNetwork
 # All dates must be YYYY-MM-DD format!
