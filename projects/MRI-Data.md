@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mri.png
 title: Disply MRI Data using MATLAB
-permalink: projects/cotton
+permalink: projects/MRI-Data
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-12
 labels:
