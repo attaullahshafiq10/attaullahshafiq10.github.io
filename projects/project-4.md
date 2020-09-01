@@ -2,29 +2,31 @@
 layout: project
 type: project
 image: images/xor.png
-title: XOR Learning Neural Network
+title: Ludo Game Project In PYTHON
 permalink: projects/NeuralNetwork
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-08
+date: 2020-09-01
 labels:
-  - Neural Network
+  - Python-Projects
   - Python
-  - Numpy
-summary: A complex python neural network implementation for the XOR problem.
+  - Ludo Game
+summary: Ludo Game project is written in Python. The project file contains python scripts (game.py, run.py, painter.py, recorder.py). This is a simple console based strategy board game which is very easy to understand and use. Talking about the gameplay, all the playing rules are the same just like we play in real time ludo. Here at first, the user has to select players i.e either human or computer. After selecting human, the player has to enter details such as name and select color(red, green, yellow and blue). the player can also start the game within two players if he/she wants.
+
 ---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/xor.png">
 </div>
 
-I used Anaconda for this which includes the numpy library.
-An instance of each class is created and the main loop of the program steps through:
-1. set the next input and expected output
-2. evaluate the hidden and output layers of the network based on input
-3. calculate current error and update thresholds and weights
+Ludo Game project is written in Python. The project file contains python scripts (game.py, run.py, painter.py, recorder.py). This is a simple console based strategy board game which is very easy to understand and use. Talking about the gameplay, all the playing rules are the same just like we play in real time ludo. Here at first, the user has to select players i.e either human or computer. After selecting human, the player has to enter details such as name and select color(red, green, yellow and blue). the player can also start the game within two players if he/she wants.
+
+After starting the game, a console based ludo board appears, other rules are the same. First, the computer or the player has to roll the dice. The main thing in this console based game is that the player just has to press “Enter Key” to roll the dice. At the top of the board, it displays a dice with the number. The system keeps on rolling until there’s a possible pawn to move. All the game movements are performed automatically. Whenever the player tries to end the game, there’s an option available to save the unfinished game so that he/she can continue it later. A simple console GUI is provided for the easy gameplay. The gameplay design is so simple that user won’t find it difficult to use and understand.
+
+In order to run the project, you must have installed Python, on your PC. This is a simple console Based game written for the beginners.
 
 
 
 
-You can learn more at the [My GitHub Repository](https://github.com/attaullahshafiq10/XOR-Learning-Neural-Network).
+
+You can learn more at the [My GitHub Repository](https://github.com/attaullahshafiq10/).
 
