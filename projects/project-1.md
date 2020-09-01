@@ -10,7 +10,7 @@ labels:
   - Neural Network
   - Python
   - Numpy
-summary: A complex python neural network implementation for the XOR problem.
+summary: A complex python neural network implementation for the XOR problem in PYTHON.
 ---
 
 <div class="ui small rounded images">
@@ -18,6 +18,7 @@ summary: A complex python neural network implementation for the XOR problem.
 </div>
 
 I used Anaconda for this which includes the numpy library.
+
 An instance of each class is created and the main loop of the program steps through:
 1. set the next input and expected output
 2. evaluate the hidden and output layers of the network based on input
