@@ -25,5 +25,4 @@ An instance of each class is created and the main loop of the program steps thro
 
 
 
-
 You can learn more at the [My GitHub Repository](https://github.com/attaullahshafiq10/XOR-Learning-Neural-Network).
