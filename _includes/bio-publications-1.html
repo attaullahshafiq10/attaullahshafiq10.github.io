@@ -1,149 +1,27 @@
-<!-- Used by theme-bio-builtin-2 -->
+<!-- Used by theme-bio-builtin-1 -->
 
-{% assign hasJournal = false %}
-{% assign hasConference = false %}
-{% assign hasWorkshop = false %}
-{% assign hasTechReport = false %}
-{% assign hasThesis = false %}
-{% assign hasBookChapter = false %}
-{% for entry in site.data.bio.publications %}
-  {% if entry.type == "journal" %}
-     {% assign hasJournal = true %}
-  {% elsif entry.type == "bookchapter" %}
-     {% assign hasBookChapter = true %}
-  {% elsif entry.type == "conference" %}
-     {% assign hasConference = true %}
-  {% elsif entry.type == "workshop" %}
-     {% assign hasWorkshop = true %}
-  {% elsif entry.type == "techreport" %}
-    {% assign hasTechreport = true %}
-  {% elsif entry.type == "thesis" %}
-    {% assign hasThesis = true %}
-  {% endif %}
-{% endfor %}
-
-{% if hasThesis %}
-<div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Thesis</h3>
-  <hr style="margin: 0px;">
-</div>
-
-<div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-    {% if entry.type == "thesis" %}
-    <p class="ui no-bottom">
-      <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-      {% if entry.website %}
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-      {% endif %}
-    </p>
-    <p class="ui no-bottom">{{ entry.summary }}</p>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
-
-{% if hasJournal %}
-  <div class="sixteen wide column no-bottom">
-    <h3 class="ui left aligned header no-bottom">Recent Journal articles</h3>
-    <hr style="margin: 0px;">
+{% if site.data.bio.publications %}
+<div class="row">
+  <div class="two wide column">
+    <h3 class="ui left aligned header no-bottom">Publications</h3>
   </div>
 
-  <div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-    {% if entry.type == "journal" %}
-      <p class="ui no-bottom">
-        <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-        {% if entry.website %}
-          <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+  <div class="fourteen wide column no-bottom">
+    {% for entry in site.data.bio.publications %}
+
+    <div class="ui grid">
+      <div class="sixteen wide column no-bottom">
+        <p class="ui no-bottom">
+          <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+          {% if entry.website %}
+        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         {% endif %}
-      </p>
-      <p class="ui no-bottom">{{ entry.summary }}</p>
-    {% endif %}
-  {% endfor %}
+        </p>
+        <p class="ui no-bottom">{{ entry.summary }}</p>
+      </div>
+    </div>
+
+    {% endfor %}
   </div>
-{% endif %}
-
-{% if hasBookChapter %}
-<div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Recent Book Chapters</h3>
-  <hr style="margin: 0px;">
-</div>
-
-<div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-  {% if entry.type == "bookchapter" %}
-  <p class="ui no-bottom">
-    <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-    {% if entry.website %}
-  <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-  {% endif %}
-  </p>
-  <p class="ui no-bottom">{{ entry.summary }}</p>
-  {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
-
-{% if hasConference %}
-<div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Recent Conference Proceedings</h3>
-  <hr style="margin: 0px;">
-</div>
-
-<div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-    {% if entry.type == "conference" %}
-      <p class="ui no-bottom">
-        <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-      {% if entry.website %}
-         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-      {% endif %}
-      </p>
-      <p class="ui no-bottom">{{ entry.summary }}</p>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
-
-{% if hasWorkshop %}
-<div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Recent Workshop Proceedings</h3>
-  <hr style="margin: 0px;">
-</div>
-
-<div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-    {% if entry.type == "workshop" %}
-       <p class="ui no-bottom">
-       <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-       {% if entry.website %}
-         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-       {% endif %}
-       </p>
-       <p class="ui no-bottom">{{ entry.summary }}</p>
-    {% endif %}
-  {% endfor %}
-</div>
-{% endif %}
-
-{% if hasTechreport %}
-<div class="sixteen wide column no-bottom">
-  <h3 class="ui left aligned header no-bottom">Recent Technical Reports</h3>
-  <hr style="margin: 0px;">
-</div>
-
-<div class="sixteen wide column no-bottom">
-  {% for entry in site.data.bio.publications %}
-    {% if entry.type == "techreport" %}
-      <p class="ui no-bottom">
-      <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-      {% if entry.website %}
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-      {% endif %}
-      </p>
-      <p class="ui no-bottom">{{ entry.summary }}</p>
-    {% endif %}
-  {% endfor %}
 </div>
 {% endif %}
