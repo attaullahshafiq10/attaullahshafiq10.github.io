@@ -144,6 +144,17 @@
       ]
     },
     {
+      "organization": "Microsoft Community",
+      "website": "https://www.microsoft.com/",
+      "position": "Active Contributer",
+      "startDate": "2020-09-09",
+      "endDate": "Present",
+      "summary": "Got more than 5 trophies and 24+ Badges",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "organization": "GitHub",
       "website": "http://github.com",
       "position": "Arctic Code Vault Contributor",
@@ -327,12 +338,12 @@
   ],
   "publications": [
     {
-      "name": "IoT Survey",
+      "name": "IoT Security Challenges & Encryption Techniques: A Review",
       "type": "journal",
-      "author": "Attaullah Shafiq, and Rahat Khan",
-      "publisher": "Energies 13(15)",
-      "releaseDate": "August, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-07/20-07.pdf",
+      "author": "Attaullah Shafiq, Mumtaz",
+      "publisher": "",
+      "releaseDate": "December, 2020",
+      "website": "",
       "summary": ""
     }
   ],  
