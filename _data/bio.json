@@ -338,11 +338,20 @@
   ],
   "publications": [
     {
-      "name": "IoT Security Challenges & Encryption Techniques: A Review",
+      "name": "Cyber security for Industrial Control System (ICS)",
       "type": "journal",
-      "author": "Attaullah Shafiq, Mumtaz",
+      "author": "HM Attaullah, Rahat ALi Khan, Shaheryar Mughal",
       "publisher": "",
-      "releaseDate": "December, 2020",
+      "releaseDate": "November, 2020",
+      "website": "http://iksp.org/journals/index.php/ijetbas/",
+      "summary": ""
+    },
+    {
+      "name": "IoT Security Challenges & Possible Solutions: A Review",
+      "type": "journal",
+      "author": "Attaullah Shafiq, Mumtaz Qabulio",
+      "publisher": "",
+      "releaseDate": "January, 2021",
       "website": "",
       "summary": ""
     }
