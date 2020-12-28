@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/face.jpg
 title: Realtime Face Detection and Tracking with MATLAB
-permalink: projects/sentiment-analysis
+permalink: projects/face-detection
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-22
 labels:
