@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sentiment.jpg
 title: Sentiment Analysis
-permalink: projects/sentiment-analysis
+permalink: projects/sentiment-analysis-amazon
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-16
 labels:
