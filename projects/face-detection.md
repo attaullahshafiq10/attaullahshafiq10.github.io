@@ -5,7 +5,7 @@ image: images/face.jpg
 title: Realtime Face Detection and Tracking with MATLAB
 permalink: projects/sentiment-analysis
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-16
+date: 2020-11-22
 labels:
   - Realtime_Face_Detection_and_Tracking
   - ComputerVision
