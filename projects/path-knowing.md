@@ -5,7 +5,7 @@ image: images/path.PNG
 title: Artificially Path Knowing in Environments of Different Complexity
 permalink: projects/path
 # All dates must be YYYY-MM-DD format!
-date: 2020-11-22
+date: 2020-11-19
 labels:
   - machinelearning
   - DeepLearning
