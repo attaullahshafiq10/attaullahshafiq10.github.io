@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ludo.PNG
+image: images/sentiment.jpg
 title: Ludo Game Project In PYTHON
 permalink: projects/sentiment-analysis
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ summary: Demo on 'Sentiment Analysis of Amazon'. Understanding the sentiment of 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ludo.PNG">
+  <img class="ui image" src="../images/sentiment.jpg">
 </div>
 
 Demo on 'Sentiment Analysis of Amazon'. Understanding the sentiment of the textual data is a very crucial component in data science. In this Demo, I have used Natural Processing Techniques to understand the sentiment of some of the reviews posted on the amazon website.
