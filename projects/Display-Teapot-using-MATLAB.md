@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tea.png
+image: images/atta.png
 title: Display Teapot using MATLAB
 permalink: projects/Teapot
 date: 2020-01-12
