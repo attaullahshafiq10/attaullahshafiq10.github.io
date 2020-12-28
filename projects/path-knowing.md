@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/path.PNG
-title: Realtime Face Detection and Tracking with MATLAB
+title: Artificially Path Knowing in Environments of Different Complexity
 permalink: projects/path
 # All dates must be YYYY-MM-DD format!
 date: 2020-11-22
