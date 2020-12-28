@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sentiment.jpg
-title: Ludo Game Project In PYTHON
+title: Sentiment Analysis
 permalink: projects/sentiment-analysis
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-16
