@@ -105,6 +105,17 @@
     }
   ],
   "work": [
+     {
+      "company": "DSC (Google Community)",
+      "position": "ML/AI Campus Lead",
+      "website": "",
+      "startDate": "2020-08-03",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "company": "Dawaat E-Magagize",
       "position": "Web Developer and Writer",
@@ -204,6 +215,12 @@
       "summary": ""
     },
     {
+      "title": "ISOIEC 27001 INFORMATION SECURITY ASSOCIATE",
+      "date": "",
+      "awarder": "SkillFront",
+      "summary": ""
+    },
+    {
       "title": "Become a Software Developer-Specialization",
       "date": "",
       "awarder": "LinkedIn Learning",
@@ -255,6 +272,12 @@
       "title": "Certifed Network Security Specialist",
       "date": "",
       "awarder": "ICSI",
+      "summary": ""
+    },
+    {
+      "title": "Foundations Of Business And Entrepreneurship",
+      "date": "",
+      "awarder": "SkillFront",
       "summary": ""
     },
     {
