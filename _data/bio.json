@@ -135,19 +135,18 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        ""
+
       ]
     },
     {
       "company": "Dawaat E-Magagize",
-      "position": "Web Developer and Writer",
-      "website": "",
+      "position": "Web Developer, Administrator and Writer",
+      "website": "http://www.dawaat.org/",
       "startDate": "2020-03-03",
       "endDate": "Present",
-      "summary": "Administration and Web Devolopment",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official E-Magazine newspaper website",
-        "Drive, design and build writers-community projects for Dawaat"
+
       ]
     },
     {
@@ -158,8 +157,7 @@
       "endDate": "2019-07-02",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Antennas system and site survey"
+
       ]
     }
   ],
