@@ -141,7 +141,7 @@
     {
       "company": "Dawaat E-Magagize",
       "position": "Web Developer, Administrator and Writer",
-      "website": "http://www.dawaat.org/",
+      "website": "",
       "startDate": "2020-03-03",
       "endDate": "Present",
       "summary": "",
@@ -152,7 +152,7 @@
     {
       "company": "SysTech Engg: Solutions",
       "position": "Internee",
-      "website": "http://www.sysstech.com/",
+      "website": "",
       "startDate": "2019-06-01",
       "endDate": "2019-07-02",
       "summary": "",
@@ -189,6 +189,17 @@
       "organization": "GitHub",
       "website": "http://github.com",
       "position": "Pro & Arctic Code Vault Contributor",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "An Active contributor"
+      ]
+    },
+    {
+      "organization": "Kaggle",
+      "website": "http://kaggle.com",
+      "position": "Contributor",
       "startDate": "",
       "endDate": "",
       "summary": "",
