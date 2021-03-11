@@ -106,6 +106,17 @@
   ],
   "work": [
      {
+      "company": "Microsoft",
+      "position": "Microsoft Certified Trainer (MCT)",
+      "website": "",
+      "startDate": "2021-03-03",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "company": "DSC (Google Community)",
       "position": "ML/AI Campus Lead",
       "website": "",
